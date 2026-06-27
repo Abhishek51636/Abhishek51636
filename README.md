@@ -7,36 +7,17 @@
 </div>
 
 ---
-
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrng1FLj/giphy.gif" width="28"> About Me
 
-```python
-class DataAnalyst:
-    def __init__(self):
-        self.name = "Abhishek R"
-        self.location = "Bodinayakanur, Tamilnadu 🇮🇳"
-        self.degree = "B.Tech in AI & Data Science"
-        self.college = "Karpagam College of Engineering"
-        self.cgpa = [8.0, 7.8]
-        self.graduation = 2028
-        
-        self.tech_stack = {
-            "languages": ["Python", "JavaScript", "SQL"],
-            "ml_frameworks": ["Pandas", "Scikit-Learn", "Matplotlib"],
-            "web_frameworks": ["FastAPI", "React.js"],
-            "databases": ["MySQL"],
-            "tools": ["Power BI", "Excel", "Git"],
-            "specialization": ["NLP", "ML", "API Integration"]
-        }
-        
-        self.currently_learning = ["Deep Learning", "Advanced NLP"]
-        self.fun_fact = "Analyzed 100,000+ data points 📊"
-        
-    def motto(self):
-        return "Quick learner | Problem solver | Building AI systems"
+**I'm a passionate AI Developer & Data Analyst** from Theni, Tamilnadu, India.
 
-developer = DataAnalyst()
-```
+- 🎓 **Degree:** B.Tech in Artificial Intelligence & Data Science
+- 🏫 **College:** Karpagam College of Engineering (2024-2028)
+- 📊 **CGPA:** 8.0 (Year 1), 7.8 (Year 2)
+- 🛠️ **Tech Stack:** Python, ML, NLP, FastAPI, Power BI
+- 🚀 **Currently Learning:** Deep Learning, Advanced NLP
+- 💡 **Achivements:** Analyzed 100,000+ data points using Power BI / Personal works are done with AI Automation
+- 🎯 **Motto:** Quick learner | Problem solver | Building AI systems and Automation
 
 ---
 

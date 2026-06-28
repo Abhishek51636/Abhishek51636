@@ -48,7 +48,7 @@
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
+![Tableau](https://img.shields.io/badge/Tableau-181717?style=flat-square&logo=tableau&logoColor=white)
 ---
 
 ## 📊 GitHub Analytics
